@@ -79,11 +79,17 @@ App is deployed freely using Streamlit Cloud. You can deploy your fork by:
 Try it live 👉 https://plant-disease-detection-hvxzmj8lebsnzvp7crta23.streamlit.app/
 
 📘 References
+
 PlantVillage Dataset
+
 Grad-CAM Paper
+
 Streamlit Documentation
+
 ResNet Architecture
 
 🙏 Acknowledgements
+
 Inspired by agricultural AI applications for sustainability.
+
 Model trained on Google Colab with GPU acceleration.
