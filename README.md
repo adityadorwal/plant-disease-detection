@@ -75,8 +75,12 @@ App is deployed freely using Streamlit Cloud. You can deploy your fork by:
 3. Set app.py as the main file
 4. Deploy!
 
+
 ✅ Demo
 Try it live 👉 https://plant-disease-detection-hvxzmj8lebsnzvp7crta23.streamlit.app/
+
+
+
 
 📘 References
 
@@ -87,6 +91,8 @@ Grad-CAM Paper
 Streamlit Documentation
 
 ResNet Architecture
+
+
 
 🙏 Acknowledgements
 
