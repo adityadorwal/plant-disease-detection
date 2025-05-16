@@ -37,7 +37,7 @@ A real-time AI-powered web application to detect plant diseases from leaf images
 
 ![Grad-CAM Heatmap](figures/sample_gradcam.png)
 ![Training metrics](figures/training_metrics.png)
-![Sample screenshots](Screenshot 2025-05-16 182048.png)
+![Sample screenshots](figures/Screenshot 2025-05-16 182048.png)
 
 
 ## 📂 Folder Structure
