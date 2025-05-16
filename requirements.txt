@@ -1,6 +1,5 @@
 streamlit
 torch
 torchvision
-Pillow
-opencv-python
 numpy
+Pillow
