@@ -41,14 +41,14 @@ A real-time AI-powered web application to detect plant diseases from leaf images
 
 
 ## 📂 Folder Structure
-
+```
 ├── app.py                       # Streamlit app with Grad-CAM
 ├── resnet18_plant_disease.pth  # Trained model weights
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # This file
 ├── figures/                    # Screenshots and heatmaps (optional)
 └── .gitignore
-
+```
 
 🔧 How to Run Locally
 
